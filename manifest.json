@@ -1,0 +1,13 @@
+{
+  "name": "Strip That Out",
+  "id": "strip-that-out",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
